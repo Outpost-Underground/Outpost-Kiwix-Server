@@ -16,6 +16,12 @@ The script:
 
 Once built, you can plug the USB into almost any Windows PC and serve offline content over the local network.
 
+Note: User must either download the starter "prepper" ZIM pack, or copy ZIM files into the ZIM folder in order for the server to make content available. Fun fact: the "prepper" ZIM pack includes WikiHow 🛠
+
+Additional ZIM files can be dowloaded from:
+https://library.kiwix.org/
+https://download.kiwix.org/
+
 ---
 
 After running the script, your USB will contain:
